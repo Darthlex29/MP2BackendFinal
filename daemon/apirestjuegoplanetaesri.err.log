@@ -1,0 +1,121 @@
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+TypeError: Cannot read properties of null (reading '_id')
+    at C:\inetpub\wwwroot\APIRESTGame\controllers\usuario-controller.js:244:27
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5074:18
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+Emitted 'error' event on Function instance at:
+    at C:\inetpub\wwwroot\APIRESTGame\node_modules\mongoose\lib\model.js:5076:15
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)

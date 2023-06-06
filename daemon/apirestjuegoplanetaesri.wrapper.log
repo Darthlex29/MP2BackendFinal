@@ -1,0 +1,95 @@
+2022-09-05 00:35:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-09-05 00:35:55 - Started 584
+2022-10-08 00:23:37 - Stopping apirestjuegoplanetaesri.exe
+2022-10-08 00:23:37 - Finished apirestjuegoplanetaesri.exe
+2022-10-08 00:24:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-10-08 00:24:53 - Started 4756
+2022-10-22 00:19:34 - Stopping apirestjuegoplanetaesri.exe
+2022-10-22 00:19:34 - ProcessKill 4756
+2022-10-22 00:19:37 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-10-22 00:20:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-10-22 00:20:44 - Started 4712
+2022-12-01 11:54:14 - Stopping apirestjuegoplanetaesri.exe
+2022-12-01 11:54:14 - Finished apirestjuegoplanetaesri.exe
+2022-12-01 11:55:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-12-01 12:30:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-12-01 12:30:41 - Started 4244
+2022-12-01 13:19:09 - Stopping apirestjuegoplanetaesri.exe
+2022-12-01 13:19:09 - ProcessKill 4244
+2022-12-01 13:19:09 - Found child process: 4268 Name: conhost.exe
+2022-12-01 13:19:09 - Found child process: 3856 Name: node.exe
+2022-12-01 13:19:10 - Stopping process 4268
+2022-12-01 13:19:10 - Send SIGINT 4268
+2022-12-01 13:19:10 - SIGINT to 4268 failed - Killing as fallback
+2022-12-01 13:19:10 - Stopping process 3856
+2022-12-01 13:19:10 - Send SIGINT 3856
+2022-12-01 13:19:10 - SIGINT to 3856 failed - Killing as fallback
+2022-12-01 13:19:10 - Stopping process 4244
+2022-12-01 13:19:10 - Send SIGINT 4244
+2022-12-01 13:19:10 - SIGINT to 4244 failed - Killing as fallback
+2022-12-01 13:19:10 - Finished apirestjuegoplanetaesri.exe
+2022-12-03 02:22:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-12-03 02:22:10 - Started 5008
+2022-12-31 00:23:10 - Stopping apirestjuegoplanetaesri.exe
+2022-12-31 00:23:10 - Finished apirestjuegoplanetaesri.exe
+2022-12-31 00:25:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-12-31 00:25:29 - Started 4284
+2023-02-21 17:42:25 - Stopping apirestjuegoplanetaesri.exe
+2023-02-21 17:42:26 - Finished apirestjuegoplanetaesri.exe
+2023-03-06 10:13:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-03-06 10:13:57 - Started 4124
+2023-03-14 17:30:21 - Stopping apirestjuegoplanetaesri.exe
+2023-03-14 17:30:21 - ProcessKill 4124
+2023-03-14 17:30:24 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-03-14 17:31:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-03-14 17:31:29 - Started 4972
+2023-03-14 19:34:51 - Stopping apirestjuegoplanetaesri.exe
+2023-03-14 19:34:51 - ProcessKill 4972
+2023-03-14 19:34:51 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-03-14 19:35:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-03-14 19:35:08 - Started 4428
+2023-04-01 00:20:22 - Stopping apirestjuegoplanetaesri.exe
+2023-04-01 00:20:22 - ProcessKill 4428
+2023-04-01 00:20:25 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-04-01 00:23:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\inetpub\wwwroot\APIRESTGame\node_modules\node-windows\lib\wrapper.js --file C:\inetpub\wwwroot\APIRESTGame\app.js --scriptoptions= --log "API REST Juego Planeta Esri wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-01 00:23:50 - Started 4916
